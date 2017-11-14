@@ -6,6 +6,7 @@ import numpy as np
 import tensorflow as tf
 import time
 import copy
+import glob
 
 # 人様のコード
 from discriminator import Discriminator
